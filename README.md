@@ -1,20 +1,24 @@
-<!-- Typewriter effect script -->
-<script>
-  const titleElement = document.getElementById('title');
-  const titles = ['Desarrollador web', 'Desarrollador Web', 'Desarrollador Backend'];
-  let index = 0;
+<!-- About me -->
+<p align="center">
+  ¡Hola! 👋 Soy [Tu Nombre], un apasionado desarrollador de software con un amor por crear cosas hermosas y funcionales. Me encanta explorar nuevas tecnologías y compartir conocimientos con la comunidad.
+</p>
 
-  function typeWriter() {
-    titleElement.textContent = titles[index];
-    index = (index + 1) % titles.length;
-    setTimeout(typeWriter, 2000); // Cambiar el intervalo de tiempo según prefieras
+<!-- Header with dynamic title -->
+<h1 id="title" align="center">Desarrollador Web</h1>
+
+<!-- CSS animation -->
+<style>
+  @keyframes typing {
+    0% { width: 0; }
+    100% { width: 100%; }
   }
 
-  typeWriter();
-</script>
-
-<!-- Title with typewriter effect -->
-<h1 id="title" align="center"></h1>
+  #title {
+    overflow: hidden;
+    white-space: nowrap;
+    animation: typing 6s steps(30) infinite;
+  }
+</style>
 
 <!-- About me -->
 <p align="center">
