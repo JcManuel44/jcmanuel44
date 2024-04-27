@@ -59,27 +59,33 @@
 
 
 
-##¡Echa un vistazo y descubre más sobre mi trabajo!
+## ¡Conéctate conmigo en las redes sociales!
 
-<!-- Header -->
+<!-- Introducción -->
 <p align="center">
-  <img src="https://github.com/TuNombre/TuNombre/blob/main/assets/header.gif" width="100%">
+  ¡Hola! ¡Bienvenido a mi perfil! Me encantaría conectarme contigo en las redes sociales. ¡Sigue leyendo para descubrir más sobre mi trabajo y proyectos!
 </p>
 
 <!-- Social icons -->
 <p align="center">
   <a href="https://twitter.com/TuUsuarioDeTwitter">
-    <img src="https://img.shields.io/twitter/follow/TuUsuarioDeTwitter?style=social&logo=twitter" alt="Twitter">
+    <img src="https://img.shields.io/twitter/follow/TuUsuarioDeTwitter?style=social&logo=twitter" alt="Twitter" style="margin-right: 10px;">
   </a>
   <a href="https://www.linkedin.com/in/TuPerfilDeLinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" style="margin-right: 10px;">
   </a>
   <a href="https://www.instagram.com/TuUsuarioDeInstagram">
-    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-purple?style=for-the-badge&logo=instagram" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-purple?style=for-the-badge&logo=instagram" alt="Instagram" style="margin-right: 10px;">
   </a>
   <a href="https://www.youtube.com/TuCanalDeYouTube">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" alt="YouTube">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" alt="YouTube" style="margin-right: 10px;">
   </a>
+</p>
+---
+#
+<!-- Mensaje de llamada a la acción -->
+<p align="center">
+  ¿Quieres mantenerte al tanto de mis proyectos y publicaciones? ¡Sígueme en mis redes sociales para no perderte ninguna actualización!
 </p>
 
 
