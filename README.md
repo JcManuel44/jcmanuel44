@@ -15,13 +15,14 @@
 <!-- Tecnologías -->
 <h2 align="center">Tecnologías</h2>
 <p align="center" style="font-size: 1.2em;">
-   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" style="padding: 5px; max-width: 100px; height: auto;">
-  <img src="https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white" alt="Apache NetBeans" style="padding: 5px; max-width: 100px; height: auto;">
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white" alt="Eclipse" style="padding: 5px; max-width: 100px; height: auto;">
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" style="padding: 5px; max-width: 100px; height: auto;">
-  <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL Workbench" style="padding: 5px; max-width: 100px; height: auto;">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" style="padding: 5px; max-width: 100px; height: auto;">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" style="padding: 7px; max-width: 100px; height: auto;">
+  <img src="https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white" alt="Apache NetBeans" style="padding: 7px; max-width: 100px; height: auto;">
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white" alt="Eclipse" style="padding: 7px; max-width: 100px; height: auto;">
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" style="padding: 7px; max-width: 100px; height: auto;">
+  <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL Workbench" style="padding: 7px; max-width: 100px; height: auto;">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" style="padding: 7px; max-width: 100px; height: auto;">
 </p>
+
 
 
 <!-- Skills -->
