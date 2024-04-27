@@ -55,10 +55,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" style="padding: 7px; max-width: 100px; height: auto;">
 </p>
 
-
-
-
-
 ## ¡Conéctate conmigo en las redes sociales!
 
 <!-- Social icons -->
