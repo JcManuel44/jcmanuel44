@@ -1,3 +1,8 @@
+<!-- About me -->
+<p align="center">
+  ¡Hola! 👋 Soy [Tu Nombre], un apasionado desarrollador de software con un amor por crear cosas hermosas y funcionales. Me encanta explorar nuevas tecnologías y compartir conocimientos con la comunidad.
+</p>
+
 <!-- Header -->
 <p align="center">
   <img src="https://github.com/TuNombre/TuNombre/blob/main/assets/header.gif" width="100%">
@@ -17,11 +22,6 @@
   <a href="https://www.youtube.com/TuCanalDeYouTube">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" alt="YouTube">
   </a>
-</p>
-
-<!-- About me -->
-<p align="center">
-  ¡Hola! 👋 Soy [Tu Nombre], un apasionado desarrollador de software con un amor por crear cosas hermosas y funcionales. Me encanta explorar nuevas tecnologías y compartir conocimientos con la comunidad.
 </p>
 
 <!-- Skills -->
@@ -65,7 +65,6 @@
     <img src="https://img.shields.io/badge/WhatsApp-Message-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
   </a>
 </p>
-
 
 
 Here are some ideas to get you started:
