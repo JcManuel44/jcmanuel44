@@ -1,13 +1,14 @@
-<!-- Header -->
-<div style="display: flex; align-items: center; padding: 20px;">
-  <div style="flex: 1;">
-    <h1 style="font-size: 36px; font-weight: bold; color: #333;">¡Bienvenido a mi mundo digital!</h1>
-    <p style="font-size: 20px; color: #666;">¡Hola! Soy [Tu Nombre], Desarrollador Web y Backend</p>
-  </div>
-  <div>
-    <img src="https://emojicdn.elk.sh/🌐" width="200px" alt="Globo Emoji">
-  </div>
-</div>
+<header class="header" style="background-color: #f0f0f0; padding: 20px;">
+    <div class="header-content" style="display: flex; align-items: center;">
+      <div class="header-text" style="flex: 1;">
+        <h1>¡Bienvenido a mi mundo digital!</h1>
+        <p>¡Hola! Soy [Tu Nombre], Desarrollador Web y Backend</p>
+      </div>
+      <div class="header-image">
+        <img src="https://emojicdn.elk.sh/🌐" alt="Globo Emoji" style="width: 200px;">
+      </div>
+    </div>
+  </header>
 
 
 
