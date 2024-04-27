@@ -12,7 +12,18 @@
   ¡Bienvenido a mi espacio digital! 💡 Aquí encontrarás la conjunción perfecta entre creatividad y tecnología. Como apasionado del desarrollo web y backend, mi misión es construir experiencias digitales que inspiren, emocionen y conecten. 💻🌟 ¡Acompáñame en este viaje hacia la innovación y la excelencia tecnológica!
 </p>
 
-<!-- Resto de tu perfil... -->
+---
+
+<!-- Sección adicional -->
+## Proyectos Destacados
+
+Aquí se muestran algunos de mis proyectos más destacados:
+
+1. **Proyecto 1**: Breve descripción del proyecto 1.
+2. **Proyecto 2**: Breve descripción del proyecto 2.
+3. **Proyecto 3**: Breve descripción del proyecto 3.
+
+¡Echa un vistazo y descubre más sobre mi trabajo!
 
 
 
