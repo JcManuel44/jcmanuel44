@@ -68,17 +68,8 @@
 
 <!-- Social icons -->
 <p align="center">
-  <a href="https://X.com/TuUsuarioDeX">
-    <img src="https://img.shields.io/X/follow/:user" alt="X" style="margin-right: 10px;">
-  </a>
   <a href="https://www.linkedin.com/in/TuPerfilDeLinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" style="margin-right: 10px;">
-  </a>
-  <a href="https://www.instagram.com/TuUsuarioDeInstagram">
-    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-purple?style=for-the-badge&logo=instagram" alt="Instagram" style="margin-right: 10px;">
-  </a>
-  <a href="https://www.youtube.com/TuCanalDeYouTube">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" alt="YouTube" style="margin-right: 10px;">
   </a>
 </p>
 ---
