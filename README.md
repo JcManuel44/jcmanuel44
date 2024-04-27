@@ -1,9 +1,14 @@
-<!-- Portada -->
-<div align="center">
-  <img src="https://emojicdn.elk.sh/🌐" width="80px" alt="Globo Emoji">
-  <h1 style="font-size: 48px; font-weight: bold; color: #333; margin-top: 20px;">¡Explora mi mundo digital!</h1>
-  <p style="font-size: 20px; color: #666;">¡Hola! Soy [Tu Nombre], Desarrollador Web y Backend</p>
+<!-- Header -->
+<div style="display: flex; align-items: center; justify-content: space-between; padding: 20px;">
+  <div style="flex: 1;">
+    <h1 style="font-size: 36px; font-weight: bold; color: #333;">¡Bienvenido a mi mundo digital!</h1>
+    <p style="font-size: 20px; color: #666;">¡Hola! Soy [Tu Nombre], Desarrollador Web y Backend</p>
+  </div>
+  <div>
+    <img src="https://emojicdn.elk.sh/🌐" width="200px" alt="Globo Emoji">
+  </div>
 </div>
+
 
 
 <!-- Descripción -->
