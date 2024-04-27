@@ -13,7 +13,7 @@
 </p>
 
 <!-- Tecnologías -->
-<h2 align="center">Tecnologías</h2>
+<h2 align="left">Tecnologías</h2>
 <p align="center" style="font-size: 1.2em;">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" style="padding: 5px; max-width: 100px; height: auto;">
   <img src="https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white" alt="Apache NetBeans" style="padding: 5px; max-width: 100px; height: auto;">
@@ -26,7 +26,7 @@
 
 
 <!-- Skills -->
-<h2 align="center">Skills Desarrollo de Software</h2>
+<h2 align="left">Skills Desarrollo de Software</h2>
 <p align="center" style="font-size: 1.2em;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" style="padding: 7px; max-width: 100px; height: auto;">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" style="padding: 7px; max-width: 100px; height: auto;">
@@ -43,7 +43,7 @@
 
 
 <!-- Skills Analista de datos -->
-<h2 align="center">Skills Analista de datos</h2>
+<h2 align="left">Skills Analista de datos</h2>
 <p align="center" style="font-size: 1.2em;">
   <img src="https://img.shields.io/badge/Big%20Data-000000?style=flat-square&logo=apache&logoColor=white" alt="Big Data" style="padding: 7px; max-width: 100px; height: auto;">
 <!-- Excel Skills -->
@@ -65,7 +65,7 @@
 </p>
 
 <!-- Contact me -->
-<h2 align="center">Contáctame</h2>
+<h2 align="left">Contáctame</h2>
 <p align="center">
   <a href="mailto:tuemail@example.com">
     <img src="https://img.shields.io/badge/Email-Drop%20me%20a%20message-red?style=for-the-badge" alt="Email">
