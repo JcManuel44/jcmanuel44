@@ -69,7 +69,7 @@
 <!-- Social icons -->
 <p align="center">
   <a href="https://twitter.com/TuUsuarioDeTwitter">
-    <img src="https://img.shields.io/X/follow/TuUsuarioDeX?style=social&logo=X" alt="Twitter" style="margin-right: 10px;">
+    <img src="https://img.shields.io/twitter/follow/:user" alt="Twitter" style="margin-right: 10px;">
   </a>
   <a href="https://www.linkedin.com/in/TuPerfilDeLinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" style="margin-right: 10px;">
