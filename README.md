@@ -64,27 +64,6 @@
   </a>
 </p>
 
-<!-- Featured projects -->
-<h2 align="center">Proyectos Destacados</h2>
-<div align="center">
-  <a href="Enlace al Proyecto 1" style="text-decoration: none; color: inherit;">
-    <div style="display: inline-block; margin: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuNombre&repo=proyecto-1&theme=radical" alt="Proyecto 1" style="width: 250px; height: 150px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-      <div style="text-align: center; margin-top: 10px;">
-        Proyecto 1
-      </div>
-    </div>
-  </a>
-  <a href="Enlace al Proyecto 2" style="text-decoration: none; color: inherit;">
-    <div style="display: inline-block; margin: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuNombre&repo=proyecto-2&theme=radical" alt="Proyecto 2" style="width: 250px; height: 150px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-      <div style="text-align: center; margin-top: 10px;">
-        Proyecto 2
-      </div>
-    </div>
-  </a>
-</div>
-
 <!-- Contact me -->
 <h2 align="center">Contáctame</h2>
 <p align="center">
