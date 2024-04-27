@@ -21,7 +21,6 @@
   ¡Hola! 👋 Soy [Tu Nombre], un apasionado desarrollador de software con un amor por crear cosas hermosas y funcionales. Me encanta explorar nuevas tecnologías y compartir conocimientos con la comunidad.
 </p>
 
-
 <!-- Header -->
 <p align="center">
   <img src="https://github.com/TuNombre/TuNombre/blob/main/assets/header.gif" width="100%">
