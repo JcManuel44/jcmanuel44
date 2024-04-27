@@ -1,11 +1,10 @@
-<!-- Título -->
-<h1 align="center">
-  <img src="https://emojicdn.elk.sh/🌐" width="30px" style="vertical-align: middle" alt="Code Emoji">
-  ¡Hola! Soy [Tu Nombre],
-  <br>
-  Desarrollador Web y Backend
-  <img src="https://emojicdn.elk.sh/💻" width="30px" style="vertical-align: middle" alt="Code Emoji">
-</h1>
+<!-- Portada -->
+<div align="center">
+  <img src="https://emojicdn.elk.sh/🌐" width="80px" alt="Globo Emoji">
+  <h1 style="font-size: 48px; font-weight: bold; color: #333; margin-top: 20px;">¡Explora mi mundo digital!</h1>
+  <p style="font-size: 20px; color: #666;">¡Hola! Soy [Tu Nombre], Desarrollador Web y Backend</p>
+</div>
+
 
 <!-- Descripción -->
 <p align="center">
