@@ -1,14 +1,17 @@
 <!-- Título -->
 <h1 align="center">
-  <img src="https://emojicdn.elk.sh/🚀" width="30px" style="vertical-align: middle" alt="Rocket Emoji">
+  <img src="https://emojicdn.elk.sh/💻" width="30px" style="vertical-align: middle" alt="Code Emoji">
+  ¡Hola! Soy [Tu Nombre],
+  <br>
   Desarrollador Web y Backend
-  <img src="https://emojicdn.elk.sh/💻" width="30px" style="vertical-align: middle" alt="Laptop Emoji">
+  <img src="https://emojicdn.elk.sh/💻" width="30px" style="vertical-align: middle" alt="Code Emoji">
 </h1>
 
 <!-- Descripción -->
 <p align="center">
-  ¡Hola! Soy [Tu Nombre], un apasionado desarrollador de software con un amor por crear soluciones web innovadoras y robustas. Me especializo en el desarrollo frontend y backend, utilizando las últimas tecnologías para ofrecer experiencias de usuario excepcionales y escalables.
+  ¡Bienvenido a mi espacio digital! 💡 Aquí encontrarás la conjunción perfecta entre creatividad y tecnología. Como apasionado del desarrollo web y backend, mi misión es construir experiencias digitales que inspiren, emocionen y conecten. 💻🌟 ¡Acompáñame en este viaje hacia la innovación y la excelencia tecnológica!
 </p>
+
 
 <!-- GIF animado -->
 <p align="center">
