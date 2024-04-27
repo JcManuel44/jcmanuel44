@@ -46,11 +46,14 @@
 <h2 align="center">Skills Analista de datos</h2>
 <p align="center" style="font-size: 1.2em;">
   <img src="https://img.shields.io/badge/Big%20Data-000000?style=flat-square&logo=apache&logoColor=white" alt="Big Data" style="padding: 7px; max-width: 100px; height: auto;">
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" style="padding: 7px; max-width: 100px; height: auto;">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel/ Power Query/ Power Pivot/ Dax" style="padding: 7px; max-width: 100px; height: auto;">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI" style="padding: 7px; max-width: 100px; height: auto;">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" style="padding: 7px; max-width: 100px; height: auto;">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" style="padding: 7px; max-width: 100px; height: auto;">
   <img src="https://img.shields.io/badge/DAX-008272?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjIiIGhlaWdodD0iMTgiIHZpZXdCb3g9IjAgMCAyMiAxOCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNy40NzUgMTUuN2wtMy4zNTMtMy4zNTNhNS41NSA1LjU1IDAgMCAwLTUuMTY5IDMuOTQ5bC0xLjE5Mi0xLjE5MmMtLjI2NS0uMjY1LS41NzgtLjI2NS0xLjE3IDAtLjI2NS4yNjUtLjI2NSAxLjE3IDAgLjI2NS4yNjUgMS4xNzIgMCAuMTg1LS4xODMuMzI1LS4xNzIgMS4wNzUgMCAuMzI1LjE4Mi4zNTIuMzUzIDAgLjI2NS0uMTggLjI2NS0uMzI1IDAtLjI2NS0uMTgyLS4zNTItLjMyNC0uMjY0LS4zNzUtLjI2NC0uMjY1LS4zODV6Ii8+PC9zdmc+&logoColor=white" alt="DAX" style="padding: 7px; max-width: 100px; height: auto;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" style="padding: 7px; max-width: 100px; height: auto;">
 </p>
+
 
 
 
