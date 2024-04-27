@@ -47,10 +47,7 @@
 <p align="center" style="font-size: 1.2em;">
   <img src="https://img.shields.io/badge/Big%20Data-000000?style=flat-square&logo=apache&logoColor=white" alt="Big Data" style="padding: 7px; max-width: 100px; height: auto;">
 <!-- Excel Skills -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" style="padding: 7px; max-width: 100px; height: auto;">
-</p>
-<p align="center">Excel/ Power Query/ Power Pivot/ Dax</p>
+  <img src="https://img.shields.io/badge/Excel3-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" style="padding: 7px; max-width: 100px; height: auto;">
 
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI" style="padding: 7px; max-width: 100px; height: auto;">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" style="padding: 7px; max-width: 100px; height: auto;">
