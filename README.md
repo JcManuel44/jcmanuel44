@@ -61,19 +61,13 @@
 
 ## ¡Conéctate conmigo en las redes sociales!
 
-<!-- Introducción -->
-<p align="center">
-  ¡Hola! ¡Bienvenido a mi perfil! Me encantaría conectarme contigo en las redes sociales. ¡Sigue leyendo para descubrir más sobre mi trabajo y proyectos!
-</p>
-
 <!-- Social icons -->
 <p align="center">
   <a href="https://www.linkedin.com/in/TuPerfilDeLinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" style="margin-right: 10px;">
   </a>
 </p>
----
-#
+
 <!-- Mensaje de llamada a la acción -->
 <p align="center">
   ¿Quieres mantenerte al tanto de mis proyectos y publicaciones? ¡Sígueme en mis redes sociales para no perderte ninguna actualización!
