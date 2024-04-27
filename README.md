@@ -1,29 +1,59 @@
+<!-- Header -->
+<p align="center">
+  <img src="https://github.com/TuNombre/TuNombre/blob/main/assets/header.png" width="100%">
+</p>
 
-# Hola, soy [Tu Nombre]
+<!-- Social icons -->
+<p align="center">
+  <a href="https://twitter.com/TuUsuarioDeTwitter">
+    <img src="https://img.shields.io/twitter/follow/TuUsuarioDeTwitter?style=social" alt="Twitter">
+  </a>
+  <a href="https://www.linkedin.com/in/TuPerfilDeLinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuNombre&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- About me -->
+<p align="center">
+  ¡Hola! 👋 Soy [Tu Nombre], un apasionado desarrollador de software con un amor por crear cosas hermosas y funcionales.
+</p>
 
-## Sobre mí
-¡Hola! Soy un apasionado desarrollador de software con experiencia en [lista tus áreas de experiencia]. Me encanta trabajar en proyectos desafiantes y aprender nuevas tecnologías. ¡No dudes en ponerte en contacto conmigo para colaboraciones o simplemente para charlar sobre tecnología!
+<!-- Skills -->
+<h2 align="center">Habilidades</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+</p>
 
-## Lenguajes y herramientas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuNombre&layout=compact)
+<!-- Stats -->
+<h2 align="center">Estadísticas</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TuNombre&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
 
-## Proyectos destacados
-- [Proyecto 1](Enlace al proyecto)
-- [Proyecto 2](Enlace al proyecto)
-- [Proyecto 3](Enlace al proyecto)
+<!-- Featured projects -->
+<h2 align="center">Proyectos Destacados</h2>
+<p align="center">
+  <a href="Enlace al Proyecto 1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuNombre&repo=proyecto-1&theme=radical" alt="Proyecto 1">
+  </a>
+  <a href="Enlace al Proyecto 2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuNombre&repo=proyecto-2&theme=radical" alt="Proyecto 2">
+  </a>
+</p>
 
-## Contáctame
-- Email: [tuemail@example.com](mailto:tuemail@example.com)
-- LinkedIn: [Tu Perfil de LinkedIn](Enlace a tu perfil)
-- Twitter: [@TuUsuarioDeTwitter](https://twitter.com/TuUsuarioDeTwitter)
+<!-- Contact me -->
+<h2 align="center">Contáctame</h2>
+<p align="center">
+  <a href="mailto:tuemail@example.com">
+    <img src="https://img.shields.io/badge/Email-Drop%20me%20a%20message-red?style=for-the-badge" alt="Email">
+  </a>
+</p>
 
-
-### Hi there 👋
-
-<!--
-**JcManuel44/jcmanuel44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
