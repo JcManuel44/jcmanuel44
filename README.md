@@ -1,6 +1,6 @@
 <!-- Título -->
 <h1 align="center">
-  <img src="https://emojicdn.elk.sh/💻" width="30px" style="vertical-align: middle" alt="Code Emoji">
+  <img src="https://emojicdn.elk.sh/🌐" width="30px" style="vertical-align: middle" alt="Code Emoji">
   ¡Hola! Soy [Tu Nombre],
   <br>
   Desarrollador Web y Backend
