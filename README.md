@@ -12,12 +12,6 @@
   ¡Bienvenido a mi espacio digital! 💡 Aquí encontrarás la conjunción perfecta entre creatividad y tecnología. Como apasionado del desarrollo web y backend, mi misión es construir experiencias digitales que inspiren, emocionen y conecten. 💻🌟 ¡Acompáñame en este viaje hacia la innovación y la excelencia tecnológica!
 </p>
 
-
-<!-- GIF animado -->
-<p align="center">
-  <img src="URL_del_GIF" alt="Animación">
-</p>
-
 <!-- Resto de tu perfil... -->
 
 
