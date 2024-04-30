@@ -11,7 +11,7 @@
 
 <!-- Descripción -->
 <p align="center">
-  ¡Bienvenido a mi espacio digital! 💡 Aquí encontrarás la conjunción perfecta entre creatividad y tecnología. Como apasionado del desarrollo web, en especial en el area del backend, mi misión es construir experiencias digitales que inspiren, emocionen y conecten. 💻🌟 ¡Acompáñame en este viaje hacia la innovación y la excelencia tecnológica!
+  ¡Bienvenido a mi espacio digital! 💡 Aquí encontrarás la conjunción perfecta entre creatividad y tecnología. Soy apasionado del desarrollo web, en especial en el area del backend, mi misión es construir experiencias digitales que inspiren, emocionen y conecten. 💻🌟 ¡Acompáñame en este viaje hacia la innovación y la excelencia tecnológica!
 </p>
 
 <!-- Tecnologías -->
