@@ -1,7 +1,7 @@
 <!-- Título -->
 <h1 align="center">
   <img src="https://emojicdn.elk.sh/🌐" width="30px" style="vertical-align: middle" alt="Code Emoji">
-  ¡Hola! Soy [Tu Nombre],
+  ¡Hola! Soy José Manuel Aguilar, Puedes llamarme Manuel
   <br>
   Desarrollador Web y Backend
   <img src="https://emojicdn.elk.sh/💻" width="30px" style="vertical-align: middle" alt="Code Emoji">
@@ -11,7 +11,7 @@
 
 <!-- Descripción -->
 <p align="center">
-  ¡Bienvenido a mi espacio digital! 💡 Aquí encontrarás la conjunción perfecta entre creatividad y tecnología. Como apasionado del desarrollo web y backend, mi misión es construir experiencias digitales que inspiren, emocionen y conecten. 💻🌟 ¡Acompáñame en este viaje hacia la innovación y la excelencia tecnológica!
+  ¡Bienvenido a mi espacio digital! 💡 Aquí encontrarás la conjunción perfecta entre creatividad y tecnología. Como apasionado del desarrollo web, en especial en el area del backend, mi misión es construir experiencias digitales que inspiren, emocionen y conecten. 💻🌟 ¡Acompáñame en este viaje hacia la innovación y la excelencia tecnológica!
 </p>
 
 <!-- Tecnologías -->
