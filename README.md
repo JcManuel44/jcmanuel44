@@ -79,8 +79,11 @@
 
 <!-- Sober Mi -->
 - 😎 Sobre mi: Soy titulado en Ingeniería en Informática y poseo conocimientos en diversos lenguajes de programación, gestión de bases de datos, tecnologías de análisis de datos y administración de servidores Linux, entre otros. Mi pasión por la programación me impulsa a seguir creciendo en este campo. Estoy en busca de oportunidades laborales donde pueda aportar mis habilidades y conocimientos, contribuyendo al éxito de la empresa y al mismo tiempo, enriqueciendo mi experiencia profesional en un entorno especializado.
-- 🔭 Actualmente estoy buscando trabajo como desarrollador de software o como analista de datos
+
+- 🔭 Actualmente estoy buscando trabajo como desarrollador de software o como analista de datos.
+  
 - 🌱 Actualmente estoy realizando proyectos para guardar en los repositorios de GitHub.
+  
 - 📫 Cómo contactarme: Pueden contactarme a mi correo electonico "jcm4nu3l444@gmail.com" o a mi telefono "937340443", tambien debo mis redes sociales en este perfil de GitHub, tambien tengo un portafolio, donde pueden verificar informacion personal, contacto, proyectos realizados.
-- 😄 Pronombres: Manuel
+  
 - 😕 Dato curioso: Llevo buscando trabajo, tanto tiempo que da tristeza, risa, o verguenza al mismo tiempo.
